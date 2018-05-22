@@ -3,7 +3,7 @@ title: 新しいデジカメを買おう
 date: 2018-05-18 02:33:23
 categories: camera
 tags: camera
-thumbnail: http://c.imagesensor.club/1669952036-woman.jpg
+thumbnail: https://c.imagesensor.club/1669952036-woman.jpg
 ---
 最近のスマホのカメラの進化はめざましく、たいていの場合スマホのカメラで十分になってしまいました。過去何度かデジカメを所有してきたけど、ここしばらくはそれを持ち出すのもめんどくさくなってしまっている実情があります。
 
@@ -26,7 +26,7 @@ thumbnail: http://c.imagesensor.club/1669952036-woman.jpg
 ただ、安価なコンデジだと十分きれいに撮影はできるものの、これならスマホでもいいやとなってしまう。
 
 センサーのサイズを比較するとその差は歴然。
-![センサーサイズ](http://img1.kakaku.k-img.com/images/camera/article/select/p03/point_img_01.png)
+![センサーサイズ](https://img1.kakaku.k-img.com/images/camera/article/select/p03/point_img_01.png)
 
 記憶に残る写真を撮影するにはいいカメラが必須でしょう（え？）
 
