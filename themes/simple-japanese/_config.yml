@@ -23,7 +23,7 @@ simple_japanese:
 # Contact
 contact:
   url: https://github.com/hiro88hyo
-  icon: github # font-awesome icon. e.x) fa-github
+  icon: camera # font-awesome icon. e.x) fa-github
 
 # Google tag manager
 google_analytics: UA-119667850-1
