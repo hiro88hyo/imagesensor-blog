@@ -1,5 +1,5 @@
 ---
-title: motivation-to-buy-new-camera
+title: 新しいデジカメを買おう
 date: '2018-05-18T00:00:21+09:00'
 tags:
   - camera
