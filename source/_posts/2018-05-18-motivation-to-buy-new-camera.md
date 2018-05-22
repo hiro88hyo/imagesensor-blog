@@ -1,6 +1,6 @@
 ---
 title: 新しいデジカメを買おう
-date: '2018-05-01T09:00:00+09:00'
+date: '2018-05-18T09:00:00+09:00'
 tags:
   - camera
 thumbnail: 'https://c.imagesensor.club/1669952036-woman.jpg'
