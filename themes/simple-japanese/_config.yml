@@ -1,0 +1,30 @@
+# Site
+author: Hiroyuki Eto
+author_title: 二児の父
+avatar: https://avatars1.githubusercontent.com/u/1670222
+
+# URL
+url: https://blog.imagesensor.club/
+
+# Sidebar
+widgets:
+  - search
+  - profile
+  - recent_posts
+  - tagcloud
+  - archive
+
+# Custom assets
+simple_japanese:
+  custom_assets:
+    css:
+    js:
+
+# Contact
+contact:
+  url: https://github.com/hiro88hyo
+  icon: github # font-awesome icon. e.x) fa-github
+
+# Google tag manager
+google_analytics: GTM-XXXXXX
+
