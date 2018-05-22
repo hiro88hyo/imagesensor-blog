@@ -1,5 +1,5 @@
 ---
-title: about-sony-ilce-7m3
+title: SONY α7 IIIにしたワケ
 date: '2018-05-21T00:00:13+09:00'
 tags:
   - camera
