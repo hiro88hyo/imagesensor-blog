@@ -1,5 +1,5 @@
 ---
-title: compare a7m3 to other cameras
+title: α7iiiと他のカメラを比べてみる
 date: '2018-05-25T09:00:13+09:00'
 tags:
   - camera
