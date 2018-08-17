@@ -38,7 +38,7 @@ random_thumb: false
 
 
 # Content
-fancybox: true
+fancybox: false
 
 
 # Sidebar
